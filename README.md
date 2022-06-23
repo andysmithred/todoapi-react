@@ -5,6 +5,8 @@ Counter -> the counter example from the react-redux template when running create
 Tasks -> a CRUD example using the lastest hooks in react (there is no redux in this part)
 Todos -> exact same example as the Tasks above except with using the latest redux (redux toolkit)
 
+NOTE: the API for this is the .NET Core todoAPI -> see repo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
