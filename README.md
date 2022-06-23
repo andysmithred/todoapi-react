@@ -1,3 +1,10 @@
+# Andy Notes
+
+This is a React App with the following examples:
+Counter -> the counter example from the react-redux template when running create-react-app
+Tasks -> a CRUD example using the lastest hooks in react (there is no redux in this part)
+Todos -> exact same example as the Tasks above except with using the latest redux (redux toolkit)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
